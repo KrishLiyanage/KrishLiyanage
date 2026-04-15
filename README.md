@@ -11,8 +11,10 @@ I am a results-driven IT student currently pursuing my Bachelor of Information T
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Java, SQL (MySQL)
-- **Web Development (Learning):** HTML5, CSS3, JavaScript
-- **Frameworks/Tools:** NetBeans, WordPress, Git/GitHub
+- **Frontend Dev (Learning):** HTML5, CSS3, JavaScript
+- **Frameworks/Tools/Libraries:** WordPress, Git/GitHub, Bootstrap (Responsive Design), React (Learning)
+- **IDEs:** NetBeans (for Java Desktop Applications)
+- **Code Editors:** VS Code (for Web Development & Scripting)
 
 ### 📈 Featured Projects
 - **Billing System:** Java-based invoicing application.
