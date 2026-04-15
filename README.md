@@ -12,8 +12,6 @@ I am a results-driven IT student currently pursuing my Bachelor of Information T
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Java, SQL (MySQL)
 - **Frameworks/Tools:** NetBeans, WordPress, Git/GitHub
-- **Design:** Adobe Photoshop, Illustrator, Stable Diffusion, ComfyUI
-- **Operating Systems:** Windows (Hardware & BIOS Optimization)
 
 ### 📈 Featured Projects
 - **Billing System:** Java-based invoicing application.
