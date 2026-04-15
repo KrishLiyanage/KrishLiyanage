@@ -11,6 +11,7 @@ I am a results-driven IT student currently pursuing my Bachelor of Information T
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Java, SQL (MySQL)
+- **Web Development (Learning):** HTML5, CSS3, JavaScript
 - **Frameworks/Tools:** NetBeans, WordPress, Git/GitHub
 
 ### 📈 Featured Projects
