@@ -4,7 +4,7 @@
 
 I am a results-driven IT student currently pursuing my Bachelor of Information Technology (BIT). I have a keen interest in ensuring software reliability through Quality Engineering and logical system design.
 
-- ✍️ I write about technology at **[Cyberletter.online](https://cyberletter.online)**
+- ✍️ I write about technology at **[Cyberletter.online](https://www.cyberletter.online/)**
 - 💻 Currently building hands-on experience in **Java** and **Database Management**
 - 🎯 Focused on learning **Automated Testing** and **Front-end Development**
 - 🎨 Passionate about Graphic Design and Realistic Architectural Visualization
