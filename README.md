@@ -24,7 +24,8 @@ I am a results-driven IT student currently pursuing my Bachelor of Information T
 ---
 📫 **How to reach me:** 
 
-🔗 **LinkedIn:** www.linkedin.com/in/krishantha-liyanage-894457223
+🔗 **LinkedIn:** www.linkedin.com/in/krish-liyanage
+
 🔗 **G-mail:** contact.krishliyanage@gmail.com
 
 
